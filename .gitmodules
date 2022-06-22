@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gkgraphR"]
+	path = gkgraphR
+	url = https://github.com/racorreia/gkgraphr
+	shallow = true
+	registered = true
